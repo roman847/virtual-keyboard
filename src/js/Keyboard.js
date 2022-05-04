@@ -219,6 +219,7 @@ export class Keyboard {
     }
   }
 
+  //Create Buttons and add 'click'
   _createKeys(keyLayout) {
     const fragment = document.createDocumentFragment();
 
